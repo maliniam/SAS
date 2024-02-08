@@ -1,2 +1,1 @@
-# SAS
-Statistical analyses performed using SAS.
+Main repository for all projects completed using SAS. Branches exist within repository for individual projects.
