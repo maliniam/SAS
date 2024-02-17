@@ -1,1 +1,1 @@
-Main repository for all projects completed using SAS. Branches exist within repository for individual projects.
+Branch for Predictive Analytics project. The purpose of this project was to analyze and compare mean survival times between groups by generating survival curves and performing a log-rank test.
